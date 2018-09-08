@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:36:19	17006/17006	---MCZ	200	added ('OK')	text/html	etag:W/%22426e-nr38723xhTen8hWBkslqrEBWae8%22	https://www.wix.com/website-template/view/html/1666/?siteId=c910370d-ddd6-4f2b-b3e6-1fbc5fdfb899	www.wix.com/website-template/view/html/1666/index14cf.html	(from )
+10:36:19	591/591	---M--	200	added ('OK')	text/plain	date:Sat,%2018%20Aug%202018%2005:06:17%20GMT	https://www.wix.com/robots.txt		(from )

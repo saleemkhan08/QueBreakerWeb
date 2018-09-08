@@ -1,0 +1,33 @@
+.dateGrid {
+  margin: 20px;
+  z-index: 100;
+}
+
+.react-calendar {
+  border: none !important;
+}
+.react-calendar__tile {
+  outline: none;
+}
+
+.react-calendar__tile:focus {
+  outline: 0;
+}
+
+.react-calendar button {
+  border-radius: 5px !important;
+  border-style: solid !important;
+  border-color: transparent !important;
+  border-width: 2px !important;
+}
+
+.drawer-close-btn {
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+}
+
+.paper-style {
+  margin: 20px;
+  padding: 10px;
+}

@@ -1,0 +1,7 @@
+.loading-page {
+  height: 100vh;
+}
+
+.root {
+  flex-grow: 1;
+}
